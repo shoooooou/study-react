@@ -1,1 +1,18 @@
-self.__RSC_CSS_MANIFEST={"cssImports":{"/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/layout.tsx":["/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/globals.css","/Users/sho.nakamura/Desktop/learning/typescript/renshureact/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"]},"cssModules":{"/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/page":["/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/globals.css","/Users/sho.nakamura/Desktop/learning/typescript/renshureact/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"]}}
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/layout.tsx": [
+      "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/about/page": [
+      "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/globals.css",
+      "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/page": [
+      "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/app/globals.css",
+      "/Users/sho.nakamura/Desktop/learning/typescript/renshureact/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
